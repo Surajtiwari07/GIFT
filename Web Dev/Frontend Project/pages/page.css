@@ -1,0 +1,31 @@
+* {
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+body {
+    margin-top: 20vh;
+}
+
+button {
+    margin-top: 20px;
+
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #2ab074;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border: none;
+}
+
+button:hover {
+
+    background: #106e42;
+    text-decoration: none;
+}
